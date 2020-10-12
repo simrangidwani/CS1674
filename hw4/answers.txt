@@ -1,0 +1,3 @@
+After running the compare_representations script on my implementation, the average over the texture representations of pixels was the one with the smallest within-between ratio. 
+This was not what I had expected just because there was a large variation between all three of the representations. None of the ratio values were similar in size. Due to the fact that this was an average over the texture representations I had expected to to be slightly higher. 
+Out of the three descriptors, the one that I had thought was the best was the concatenation of the texture representation of all pixels. Although this value was not the lowest, it might be more representative of the pixels and the impact of the texture on the pictures since it is the value that is closest to 1.

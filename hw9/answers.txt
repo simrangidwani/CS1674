@@ -1,0 +1,10 @@
+part 1 : .1250
+part 2: .5325
+part 3: .775
+part 4: 
+	learning rate: 0.01 = .3625, 
+	learning rate: 0.0001 = .2025
+
+As mentioned in class, we know that the relative performance of each part will get better and better as we are using more and more training data. For the first part, compared to the results of HW 7, the average is relatively low (.1250 vs. around .3925). The performance for part 1 of this homework might be worse due to the fact that the learning rate was 0.001 and it was training on 100 images and only testing on 50. With a lower number of test data we can assume that the relative performance will reflect that.
+Regarding the other three networks, the relative performance jumps up higher and continues to get better across the next two. This may be due to the transfer of the layers from the Alexnet network that is trained on the ImageNet dataset. 
+For part 4, I imagine that the change in performance is due to the change in learning rates--changing from 0.001 to 0.0001 and 0.01. 

@@ -1,0 +1,5 @@
+2. Time = 0.026631 seconds
+3. Time = 0.000991 seconds
+12. Dimensions = 750 x 1500 x 3
+14. Number of pixles equal to 6 == 12
+15. Value of darkest pixle = 5, [Row, Col] of darkest pixle = [604, 1290]

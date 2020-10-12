@@ -1,0 +1,12 @@
+Hinge Loss(Weight 1): 3.8142
+Cross-Entropy-Loss(Weight 1): 0.60871
+
+Hinge loss(Weight 2): 2.6623
+Cross-Entropoy-Loss(Weight 2): 0.43923
+
+Hinge Loss(Weight 3): 3.2668
+Cross-Entropy-Loss(Weight 3): 0.52949
+
+According to the hinge loss, since we want to minimize loss, the best weight would be weight 2 since it is the lowest amongst the three.
+
+According to cross-entropy loss, minimizing the loss would mean that weight 2 would be the best for this as well.
